@@ -14,7 +14,7 @@ package proxy;
  */
 public class Run {
 	public static void main(String[] args) {
-		Android android = new Android();
-		android.talk();
+		SmartCard smartCard = new SmartCard();
+		smartCard.drawMoney();
 	}
 }
