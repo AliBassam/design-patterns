@@ -15,5 +15,12 @@ package templateMethod;
 public class Run {
 	public static void main(String[] args) {
 
+		System.out.println("Papers of Computer Scicence:");
+		BasicEngineering computerScience = new ComputerScience();
+		computerScience.papers();
+		
+		System.out.println("Papers of Electronics:");
+		BasicEngineering electronics = new Electronics();
+		electronics.papers();
 	}
 }
