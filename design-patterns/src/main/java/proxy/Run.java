@@ -9,6 +9,10 @@ package proxy;
  * invoked. For the client, usage of a proxy object is similar to using the real
  * object, because both implement the same interface.
  * 
+ * In a classroom, when one student is absent, during roll call, his best friend
+ * may try to mimic the student’s voice to try to keep his friend from being
+ * marked as absent.
+ * 
  * @author ali
  * 
  */
