@@ -16,3 +16,5 @@ Patterns that are completed:
 - singleton
 - strategy policy
 - template method
+
+Any contribution is more than welcomed!
